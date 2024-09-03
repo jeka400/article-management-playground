@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                      /* Ciljni ECMAScript standard */
+    "module": "ESNext",                   /* Korišćenje ESNext modula */
+    "jsx": "react",                   /* Podrška za JSX u React-u */
+    "strict": true,                       /* Omogućava striktni režim */
+    "esModuleInterop": true,              /* Pomaže sa kompatibilnošću modula */
+    "skipLibCheck": true,                 /* Smanjuje vreme kompajliranja */
+    "forceConsistentCasingInFileNames": true,
+  }
+}
